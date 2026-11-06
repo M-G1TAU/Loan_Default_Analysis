@@ -20,7 +20,19 @@ This project analyzes a dataset of personal loan applications to identify factor
 - How does default risk vary by credit score, debt-to-income (DTI) ratio, interest rate, employment status, and loan purpose?
 - Are there practical thresholds the lending team could use when approving loans?
 
----
+<img width="640" height="480" alt="credit_score-range" src="https://github.com/user-attachments/assets/b32dd0a1-86be-48ad-8664-4f91a539b40f" />
+
+<img width="640" height="480" alt="credit_score-range1" src="https://github.com/user-attachments/assets/982fb3c6-8310-4e59-a53a-9388408493b1" />
+
+<img width="640" height="480" alt="dti_range" src="https://github.com/user-attachments/assets/10ed309c-0934-47ca-93e5-eefc46b9f599" />
+
+<img width="640" height="480" alt="employment_status" src="https://github.com/user-attachments/assets/5fc4b558-4bd8-4d5f-962e-5b6f6f8d8f27" />
+
+<img width="640" height="480" alt="interest_range" src="https://github.com/user-attachments/assets/7aaa1e61-9a83-45ca-92b4-d61d0111ee33" />
+
+
+<img width="2200" height="800" alt="loan_purpose" src="https://github.com/user-attachments/assets/a01efc11-8d61-46cf-9e55-93ac250966d3" />
+
 
 ## Dataset
 
